@@ -8,7 +8,7 @@ import coopersReview from '../assets/dogpack.jpg';
 import BellaPhoto from '../assets/food2.png';
 import BellaReview from '../assets/holdingcart.jpg';
 import LunaPhoto from '../assets/golden.png';
-import LunaReview from '../assets/Persian.png';
+import LunaReview from '../assets/persian.png';
 import chickenImg from '../assets/tough.png'; // Inga unga image path
 import bedImg from '../assets/bed.png'; // Files assets folder-la irukkanum
 import boneImg from '../assets/balm.png';
