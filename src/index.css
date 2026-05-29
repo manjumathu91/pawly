@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Default-ah white space varaama irukka */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFF3E0; /* Cream background */
+  font-family: 'Poppins', sans-serif;
+}
